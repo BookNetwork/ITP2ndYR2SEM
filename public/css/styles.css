@@ -1,0 +1,29 @@
+
+.sidebar, .panel-body {
+  padding: 5px;
+  margin: 0px;
+}
+.nav ul li {
+  width: 100%;
+}
+.shade{
+  position: fixed;
+  filter: blur(3px);
+  height: 500px;
+  width: 500px;
+  z-index: 2;
+}
+.shades{
+  overflow: hidden;
+  height: 100px;
+  width: 100px;
+  margin: 0px;
+  padding: 0px;
+}
+.option {
+  display: flex;
+  align-items: center;
+}
+.view_member tr th, .view_book tr th{
+  text-align: center;
+}

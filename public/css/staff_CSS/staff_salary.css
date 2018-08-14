@@ -1,0 +1,60 @@
+.salary_staff{
+
+    font-family: Microsoft JhengHei Light;
+}
+
+
+.salary_staff fieldset
+{
+
+    position: relative;
+    border-radius:4px;
+    margin:0px 0px 60px 0px;
+
+}
+
+.salary_staff legend
+{
+        font-size:1.2em;
+        font-weight:bold;
+        margin-bottom: 0px;
+        width: 100%;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px 5px 5px 10px;
+        text-align:center;
+}
+
+.salary_staff td{
+    background-color: none;
+    padding: 10px;
+}
+
+.salary_staff table {
+    margin-bottom: 20px;
+
+}
+
+.salary_staff container{
+
+    margin-right: 50px;
+
+}
+
+.salary_staff h4{
+
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+
+.salary_staff button{
+
+    margin-bottom: 20px;
+}
+.salary_staff a{
+
+}
+
+#panel {
+    display: none;
+}

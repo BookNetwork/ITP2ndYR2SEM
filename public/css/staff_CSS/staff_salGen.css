@@ -1,0 +1,19 @@
+.staff_salGen{
+font-family: Microsoft JhengHei Light;
+
+}
+.staff_salGen legend
+{
+        font-size:1.5em;
+        font-weight:bold;
+        margin-bottom: 0px;
+        width: 100%;
+        border: 1px solid #32AD32;
+        background-color: #addead;
+        border-radius: 4px;
+        padding: 5px 5px 5px 10px;
+}
+
+#panel {
+    display: none;
+}

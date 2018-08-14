@@ -1,0 +1,43 @@
+.mainPage{
+    font-family:Microsoft JhengHei Light;
+}
+
+.aside1{
+    background-color: none;
+    height:800px;
+    background-attachment: fixed;
+    margin: 0px 0px 20px 20px;
+    box-shadow: 5px 5px 20px lightblue;
+    border: 1px solid lightblue;
+}
+
+.aside2{
+    background-color: none;
+    background-attachment: fixed;
+    height:300px;
+    margin: 0px 0px 20px 30px;
+    box-shadow: 5px 5px 20px lightblue;
+    border: 1px solid lightblue;
+}
+
+section{
+    background-color: none;
+    height:800px;
+    background-attachment: scroll;
+    margin: 0px 0px 20px 30px;
+    box-shadow: 5px 5px 20px lightblue;
+    border: 1px solid lightblue;
+}
+
+img{
+    background-color: lightgray;
+    height:250px;
+    width:100%;
+    margin: 20px 0px 20px 00px;
+
+}
+
+.panel-heading{
+    text-align: center;
+
+}
